@@ -1,2 +1,3 @@
 add_executable(solve_me_first solve_me_first.cpp)
 add_executable(simple_array_sum simple_array_sum.cpp)
+add_executable(compare_triplets compare_triplets.cpp)
