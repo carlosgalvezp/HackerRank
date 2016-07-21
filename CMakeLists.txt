@@ -5,3 +5,4 @@ SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -Wextra -Werror -pipe -O2 -std=c++
 
 add_subdirectory(tutorials)
 add_subdirectory(contests)
+add_subdirectory(algorithms)

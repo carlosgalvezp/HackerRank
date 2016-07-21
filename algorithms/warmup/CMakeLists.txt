@@ -1,0 +1,1 @@
+add_executable(solve_me_first solve_me_first.cpp)
