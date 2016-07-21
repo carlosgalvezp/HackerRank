@@ -19,7 +19,7 @@ int main() {
     std::cin >> input1;
     std::cin >> input2;
 
-    // http://stackoverflow.com/questions/11354936/why-doesnt-stdgetline-block
+    // http://stackoverflow.com/questions/5739937/using-getlinecin-s-after-cin
     std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
     std::getline(std::cin, input3);  // cin will get only the first word!
 
