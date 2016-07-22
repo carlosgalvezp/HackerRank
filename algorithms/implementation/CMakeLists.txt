@@ -1,0 +1,1 @@
+add_executable(kangaroo kangaroo.cpp)
