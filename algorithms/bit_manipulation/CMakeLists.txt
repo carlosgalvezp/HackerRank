@@ -1,0 +1,1 @@
+add_executable(maximizing_xor maximizing_xor.cpp)
