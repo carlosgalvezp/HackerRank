@@ -1,0 +1,1 @@
+add_executable(arrays_left_rotation arrays_left_rotation.cpp)
